@@ -2,4 +2,4 @@
  
  #### Simple, styled form without persistance. 
 
- ![image](/form.png)
+ ![image](/Form/htmgl_css_form/form.png)
